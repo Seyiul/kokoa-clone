@@ -1,3 +1,3 @@
-# KoKOa Clone 2020 Update
+# KoKao Clone
 
-HTML & CSS are so much fun!
+HTML & CSS
